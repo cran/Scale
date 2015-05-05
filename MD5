@@ -1,0 +1,17 @@
+e1be4623c2d2c77723ed82eb8056fd2e *DESCRIPTION
+b5b20b80761c55fa76902a00559a2a94 *NAMESPACE
+85094f866d5bcac6273fb51ca8898b36 *R/Scale.R
+7e66e3e6fac3dc76a8c616c1ee158491 *data/Depression98.rda
+3ce269890aa743d75ccefeadb8e1b833 *man/ChooseBest.Rd
+f4f16591f13b40ae8c9634506e920bb7 *man/Depression.Rd
+fe1f32ccbb842d7888bf66fe7ab6df36 *man/GetScores.Rd
+035b858a97c4985c572127c9afc30c16 *man/ItemAnalysis.Rd
+b2596802ec38b75b4e8995c1adeacdaa *man/PreProc.Rd
+9742af06d1fba14efe9407d277920524 *man/ReadItems.Rd
+98beccbb3a29fc30afc17f01a1450444 *man/ReportTable.Rd
+df19fe1843982c309a790f2b08ec0d28 *man/Scale.Rd
+3888d29c0efa30ce25374b459868070a *man/ScaleData.Rd
+4b825ac76e22b9bb02436f09269987b4 *man/ShowItems.Rd
+06f175aa1c4f9078f21e1b246f37fa6f *man/print.ItemAnalysis.Rd
+323a447197d1f2ce66ca64b37c88f0de *man/print.reliability.Rd
+687688b8267b92b08e2a9b0230e666b0 *man/print.validity.Rd
